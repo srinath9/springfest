@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+<?php 
+require "connect.php";
+require "core.php";
+
+include "home.php";
+
+
+
+if(loggedin()){
+echo " loged in <a href='logout.php' >logout </a>";
+
+}
+
+else{
+include "login.php";
+
+}
+
+?>
+
+

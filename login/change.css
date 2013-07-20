@@ -1,0 +1,52 @@
+.nav li{
+	margin-left:100px;
+	margin-top:30px;
+	margin-right:-100px;
+	
+}
+
+.form-horizontal{
+	margin-left:100px;
+
+}
+
+#end{
+	position:relative;
+	left:200%;
+	float:right;
+
+}
+body{
+	background:-webkit-linear-gradient(top,white,#CCCCCC);
+	height:900px;;
+
+}
+.form-horizontal{
+	margin-top:100px;
+
+	margin-left:300px;
+	margin-right:0px;
+
+}
+.controls {
+	margin-left:900px;
+
+}
+.content{
+	margin-left:450px;
+	margin-top:150px;
+}
+
+.content span{
+	font-size:20px;
+	padding:0px;
+
+}
+
+
+/* 0beef6590beef6590beef65926 */
+.input-append{
+	margin-left:20px;
+	width:1000px;
+
+}
